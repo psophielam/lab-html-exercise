@@ -2,7 +2,10 @@
 
 body {
   font-family: 'Poppins';
+<<<<<<< HEAD
   margin-bottom: 80px;
+=======
+>>>>>>> 39d7ec663fae5f3913ba7dbf632c6fee197aab6e
 }
 
 header > div {
@@ -37,7 +40,10 @@ nav a {
 
 .search form {
     display: flex;
+<<<<<<< HEAD
     align-items: center;
+=======
+>>>>>>> 39d7ec663fae5f3913ba7dbf632c6fee197aab6e
     border: 0;
     width: 100%;
 }
@@ -66,7 +72,11 @@ nav a {
     border: none;
     font-size: 15px;
     border: 0;
+<<<<<<< HEAD
     width: 700px;
+=======
+    width: 95%;
+>>>>>>> 39d7ec663fae5f3913ba7dbf632c6fee197aab6e
     
 }
 
@@ -83,11 +93,19 @@ nav a {
     padding: 10px 20px;
     text-decoration: none;
     color: black;
+<<<<<<< HEAD
+=======
+    white-space: nowrap;
+>>>>>>> 39d7ec663fae5f3913ba7dbf632c6fee197aab6e
 }
 
 #navbuttons {
     display: flex;
+<<<<<<< HEAD
     width: 20%;
+=======
+    padding-left: 10px;
+>>>>>>> 39d7ec663fae5f3913ba7dbf632c6fee197aab6e
 }
 
 #login {
@@ -98,33 +116,51 @@ h1 {
     font-size: 50px;
     display: flex;
     justify-content: center;
+<<<<<<< HEAD
     margin: 20px; 
 }
 
 #build  {
     height: 400px;
+=======
+}
+
+#build  {
+    height: 600px;
+>>>>>>> 39d7ec663fae5f3913ba7dbf632c6fee197aab6e
     background-color: rgba(232,217,217,.3);
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column; 
     text-align: center; 
+<<<<<<< HEAD
     padding-bottom: 30px; 
+=======
+>>>>>>> 39d7ec663fae5f3913ba7dbf632c6fee197aab6e
 }
 
 #build  p {
     width: 500px;
+<<<<<<< HEAD
     padding-bottom: 30px;
 
+=======
+    margin: 40px;
+>>>>>>> 39d7ec663fae5f3913ba7dbf632c6fee197aab6e
 }
 
 .joinbutton {
     color: black;
     text-decoration: none;
+<<<<<<< HEAD
     font-weight: bold;
     margin: 40px;
     background-color: white; 
     padding: 0.6rem 1rem;
+=======
+    margin: 40px;
+>>>>>>> 39d7ec663fae5f3913ba7dbf632c6fee197aab6e
 }
 
 .plansbutton {
@@ -134,9 +170,12 @@ h1 {
     color: white;
     text-decoration: none;
 }
+<<<<<<< HEAD
 #build a {
     margin-top: 10px;
 }
+=======
+>>>>>>> 39d7ec663fae5f3913ba7dbf632c6fee197aab6e
 
 h2 {
     background-color: rgba(255,204,53,.4);
@@ -145,7 +184,12 @@ h2 {
 }
 
 #bring {
+<<<<<<< HEAD
     height: 480px;
+=======
+    height: 600px;
+    background-color: rgba(232,217,217,.3);
+>>>>>>> 39d7ec663fae5f3913ba7dbf632c6fee197aab6e
     display: flex;
     justify-content: center;
     align-items: center;
@@ -153,7 +197,11 @@ h2 {
 }
 
 #bring p {
+<<<<<<< HEAD
     margin: 30px;
+=======
+    margin: 80px;
+>>>>>>> 39d7ec663fae5f3913ba7dbf632c6fee197aab6e
     width: 500px;
    
 }
@@ -164,6 +212,10 @@ h2 {
 
 h3 {
     color: #ED1C24;
+<<<<<<< HEAD
+=======
+    border: 2px solid rgba(128, 81, 31, 0.822);
+>>>>>>> 39d7ec663fae5f3913ba7dbf632c6fee197aab6e
     padding: 5px;
 }
 
